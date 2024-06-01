@@ -1,0 +1,24 @@
+{
+  "studentRoster": [
+    {
+      "fullName": "Kayla",
+      "researchAssignment": "Science",
+      "id": "3"
+    },
+    {
+      "fullName": "Tammy Kunde",
+      "researchAssignment": "bird",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "fullName": "Margaret Jeffry",
+      "researchAssignment": "English"
+    },
+    {
+      "id": "2",
+      "fullName": "Aiden",
+      "researchAssignment": "Math"
+    }
+  ]
+}
